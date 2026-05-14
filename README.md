@@ -1,72 +1,196 @@
-![White Minimalist Profile LinkedIn Banner](https://github.com/gaveenamarasinghe/gaveenamarasinghe/assets/140469682/40efdc68-4252-4e74-828f-2607bf5d9911)
-<h1 align="center">Hi 👋, I'm Gaveen Amarasinghe</h1>  
+<!-- ========================================================= -->
+<!--                 GITHUB PROFILE README                     -->
+<!--                Gaveen Amarasinghe                         -->
+<!-- ========================================================= -->
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=28&center=true&vCenter=true&width=600&height=100&lines=Software Engineering Undergraduate;Tech Enthusiest;Aspiring+Full-Stack+Developer;"></a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F172A,50:1E3A8A,100:06B6D4&text=Gaveen%20Amarasinghe&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Software%20Engineering%20Graduate%20%7C%20Full-Stack%20Developer%20%7C%20AI%2FTECH%20Enthusiast&descAlignY=58&descSize=20&animation=fadeIn" />
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=rashmidulashani&label=Profile%20views&color=0e75b6&style=flat" alt="gaveenamarasinghe" /> </p>
-
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 275px></picture>
-
-<p>Motivated and detail-oriented Software Engineering undergraduate pursuing a BSc (Hons) in Software Engineering from Plymouth University, UK, currently seeking a challenging internship opportunity to apply academic knowledge in real-world software development environments. With a solid foundation in computing principles gained through studies at NSBM Green University and a strong passion for building innovative and efficient software solutions, I am eager to contribute to collaborative projects and gain hands-on industry experience. Committed to continuous learning, problem-solving, and adapting to new technologies, I am enthusiastic about kickstarting my career in the dynamic field of software engineering.</p>
-  
-
-<br>
-
-
-- ✍ Passionate in Mobile App Development and Web Development
-- 🌱 I’m currently learning Data Structures and Algorithms
-- 👯 I’m looking to collaborate on open source
-- 📫 Reach out to me: gaveenamarasinghe2004@gmail.com
-
-
-<br>
-
-
+<h1 align="center">Hi there 👋, I'm Gaveen Amarasinghe</h1>
 
 <p align="center">
-<!-- <a href="https://www.linkedin.com/in/vishath-amarasinghe/"><img src="https://img.shields.io/badge/-Vishath%20Amarasinghe-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a> -->
-<a href="mailto:gaveenamarasinghe2004@gmail.com"><img src="https://img.shields.io/badge/-gaveenamarasinghe2004@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Software+Engineering+Graduate;Aspiring+Software+Engineer;Full-Stack+Developer;AI%2FTECH+Enthusiast;Building+Scalable+and+Impactful+Software+Solutions" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/gaveenamarasinghe">
+    <img src="https://komarev.com/ghpvc/?username=gaveenamarasinghe&label=Profile%20Views&color=0ea5e9&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/gaveenamarasinghe?tab=followers">
+    <img src="https://img.shields.io/github/followers/gaveenamarasinghe?label=Followers&style=for-the-badge&color=2563EB" />
+  </a>
+  <a href="https://github.com/gaveenamarasinghe">
+    <img src="https://img.shields.io/github/stars/gaveenamarasinghe?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=F59E0B" />
+  </a>
 </p>
 
 ---
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-<br>
 
-### 🛠 &nbsp;Tech Stack
+<img align="right" alt="Coding Animation" width="360" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/Right_Side.gif" />
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)\
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
+## 🚀 About Me
 
+I am a **Software Engineering Graduate** with a strong foundation in software design, full-stack development, and artificial intelligence. I am passionate about building scalable, high-performance applications that solve real-world problems and deliver exceptional user experiences.
 
-### ⚙️ &nbsp;GitHub Analytics
+My academic and project experience has enabled me to work across the full software development lifecycle—from requirements analysis and system design to implementation, testing, and deployment.
 
-<p align="center">
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+### 🔍 Areas of Interest
+
+- 🌐 Full-Stack Web Development
+- 🤖 Artificial Intelligence & Machine Learning
+- 🎓 Educational Technology & Gamification
+- ☁️ Cloud Computing & DevOps
+- 🎨 UI/UX Engineering
+
+---
+
+## 🎯 Professional Objective
+
+To launch my career as a **Software Engineer**, contributing to innovative and impactful products while continuously expanding my expertise in software engineering, cloud technologies, and AI-driven systems.
+
+---
+
+## 🌱 Currently Focused On
+
+- Data Structures and Algorithms
+- System Design Fundamentals
+- Open Source Contributions
+- CI/CD Pipelines and DevOps
+- Large Language Models (LLMs)
+
+---
+
+## 🛠️ Technology Stack
+
+### 👨‍💻 Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,c,cpp,r" />
 </p>
 
-|Stats />|Streak />|Languages />
-|---|---|---|
-|![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vishathamarasinghe&theme=gruvbox)|[![GitHub Streak](https://streak-stats.demolab.com/?user=vishathamarasinghe&theme=gruvbox&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=888888)](https://git.io/streak-stats)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vishathamarasinghe&theme=gruvbox)|
+### 🎨 Frontend Development
 
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,nextjs" />
+</p>
 
+### ⚙️ Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask" />
+</p>
+
+### 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase" />
+</p>
+
+### ☁️ DevOps & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vscode" />
+</p>
+
+---
+
+## 🌟 Featured Projects
+
+### 🎓 EduQuest – Gamified E-Learning Platform
+An interactive learning platform designed to improve student engagement through quizzes, badges, leaderboards, and progress tracking.
+
+**Tech Stack:** React.js, Node.js, MongoDB, Stripe
+
+---
+
+### 🛡️ REAL-TIME AI VOICE TEACHING PLATFORM
+A machine learning-based web application that analyzes files in real time to detect and classify malicious software.
+
+**Tech Stack:** Next.js, React.js, TypeScript, Supabase, Clerk, VAPI AI, Tailwind CSS
+
+---
+
+### 🌐 Professional Portfolio Website
+A responsive portfolio website showcasing projects, skills, certifications, and contact information with elegant animations.
+
+**Tech Stack:** React.js, Tailwind CSS, Framer Motion
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=gaveenamarasinghe&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaveenamarasinghe&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=gaveenamarasinghe&theme=tokyonight&hide_border=true&border_radius=10" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gaveenamarisinghe&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gaveenamarasinghe&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10" />
+</p>
+
+---
+
+## 📚 Education
+
+🎓 **BSc (Hons) in Software Engineering**  
+🏛️ Plymouth University, United Kingdom
+
+🎓 Academic Studies Conducted at  
+🏫 NSBM Green University, Sri Lanka
+
+---
+
+## 💡 Professional Strengths
+
+- Analytical Thinking and Problem Solving
+- Strong Foundation in Software Engineering Principles
+- Clean, Maintainable Coding Practices
+- Effective Team Collaboration
+- Continuous Learning Mindset
+- Attention to Detail
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="mailto:gaveenamarasinghe2004@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/gaveen-amarasinghe/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/gaveenamarasinghe">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://gaveenamarasinghe.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## ✨ Motto
+
+<p align="center">
+  <i>"Engineering software that transforms ideas into impactful digital experiences."</i>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:06B6D4,50:1E3A8A,100:0F172A" />
+</p>
